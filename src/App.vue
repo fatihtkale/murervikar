@@ -3,7 +3,7 @@
   <router-view/>
 </template>
 
-<script>
+<script lang="ts">
 import Nav from "@/components/Navbar/Navbar.vue"
 
 export default {
